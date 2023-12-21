@@ -1,0 +1,103 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Code\\My\\WebAppRefitREST\\ConsoleAppRefitREST\\ConsoleAppRefitREST.csproj": {}
+  },
+  "projects": {
+    "D:\\Code\\My\\WebAppRefitREST\\ConsoleAppRefitREST\\ConsoleAppRefitREST.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Code\\My\\WebAppRefitREST\\ConsoleAppRefitREST\\ConsoleAppRefitREST.csproj",
+        "projectName": "ConsoleAppRefitREST",
+        "projectPath": "D:\\Code\\My\\WebAppRefitREST\\ConsoleAppRefitREST\\ConsoleAppRefitREST.csproj",
+        "packagesPath": "D:\\NuGetPackages",
+        "outputPath": "D:\\Code\\My\\WebAppRefitREST\\ConsoleAppRefitREST\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\u037lxw\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "D:\\NuGetPackages": {},
+          "https://nuget.cdn.azure.cn/v3/index.json": {},
+          "https://nuget.cnblogs.com/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Glader.Essentials.Refit": {
+              "target": "Package",
+              "version": "[2.3.129, )"
+            },
+            "Lykke.HttpClientGenerator": {
+              "target": "Package",
+              "version": "[3.1.1, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Refit": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "Refit.HttpClientFactory": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "Refit.Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "Refit.Xml": {
+              "target": "Package",
+              "version": "[6.3.2, )"
+            },
+            "Serilog.Exceptions.Refit": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAppRefitREST", "WebAppRefitREST\WebAppRefitREST.csproj", "{28176843-9DC6-4537-8AA9-8751A269E321}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleAppRefitREST", "ConsoleAppRefitREST\ConsoleAppRefitREST.csproj", "{80F6E31A-6A3F-4EBF-909F-F0340738D445}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28176843-9DC6-4537-8AA9-8751A269E321}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28176843-9DC6-4537-8AA9-8751A269E321}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28176843-9DC6-4537-8AA9-8751A269E321}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28176843-9DC6-4537-8AA9-8751A269E321}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80F6E31A-6A3F-4EBF-909F-F0340738D445}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80F6E31A-6A3F-4EBF-909F-F0340738D445}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80F6E31A-6A3F-4EBF-909F-F0340738D445}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80F6E31A-6A3F-4EBF-909F-F0340738D445}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F1515473-0EEA-4203-8066-C3953CBA2F82}
+	EndGlobalSection
+EndGlobal
